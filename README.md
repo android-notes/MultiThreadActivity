@@ -5,6 +5,6 @@
 ![img1](https://github.com/android-notes/MultiThreadActivity/blob/master/images/img.jpg?raw=true)
 
 
-![img2](https://github.com/android-notes/MultiThreadActivity/blob/master/images/img2.jpg?raw=true)
+![img2](https://github.com/android-notes/MultiThreadActivity/blob/master/images/img2.png?raw=true)
 
 # 目前还存在很多问题，仅供研究，切莫用于实际项目开发
